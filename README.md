@@ -22,8 +22,8 @@ This is a RESTful API for managing users and tasks. It is built using Node.js, E
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/user-task-api.git
-   cd user-task-api
+   git clone git@github.com:vannbryan22/mid-construction.git
+   cd mid-construction
    ```
 
 2. **Install dependencies**

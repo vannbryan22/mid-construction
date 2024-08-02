@@ -4,7 +4,13 @@
     "./views",
     "./public",
     "./utils",
+    "./middlewares/",
     ".env",
+    "./controllers/",
+    "./migrations/",
+    "./model/",
+    "./types/",
+    "./swaggerDocs/",
     "./server.ts"
   ],
   "ext": "js,ts,json",

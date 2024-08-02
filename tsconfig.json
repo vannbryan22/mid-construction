@@ -32,6 +32,17 @@
       "@routes/*": ["routes/*"]
     }
   },
-  "include": ["**.ts", ".env"],
+  "include": [
+    "controllers/**/*",
+    "middlewares/**/*",
+    "migrations/**/*",
+    "model/**/*",
+    "public/**/*",
+    "routes/**/*",
+    "types/**/*.d.ts",
+    "utils/**/*",
+    "views/**/*",
+    ".env"
+  ],
   "exclude": ["node_modules"]
 }
